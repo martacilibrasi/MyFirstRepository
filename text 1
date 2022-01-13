@@ -1,0 +1,114 @@
+<doc id="file23153418" filename="1_Chinese ambassador to U.S. dismisses coronavirus theories as absolutely crazy.xml" parent_folder="upload">
+<text>
+
+ <speech spid = "$IR001" name="Margaret Brennan" title="" gender="female" nationality="US" continent="America" native="true" profession="Journalist" bio="" timeline="00:00:00.580" overlap="false">
+ We are going to take a closer look at efforts to contain the now over 37<emph descr=""> thousands </emph> confirmed cases of coronavirus in China <vocal type="inhalation" /> where the death toll stands <vocal type="inhalation" /> at at least 8 hundred and 11 joining us to talk more about the virus is China's Ambassador to US <vocal type="inhalation" /> welcome to ‘face the nation’ Ambassador Cui <pause type="long" />
+ <speech spid = "$IE001" name="Cui Tiankai" title="China ambassador to US" gender="male" nationality="China" continent="Asia" native="false" profession="Diplomat" bio="" timeline="00:00:20.260" overlap="true" > thank you </speech>
+ our <emph descr="">condolences</emph> for these <pause type="long" />
+ <speech spid = "$IE001" name="Cui Tiankai" title="China ambassador to US" gender="male" nationality="China" continent="Asia" native="false" profession="Diplomat" bio="" timeline="00:00:22.287" overlap="true" > thank you very much </speech>
+ <emph descr=""> hundreds </emph> of fatalities <question id="q1" type="open">Why hasn’t the virus been contained?</question>
+ </speech>
+
+ <speech spid = "$IE001" name="Cui Tiankai" title="China ambassador to US" gender="male" nationality="China" continent="Asia" native="false" profession="Diplomat" bio="" timeline="00:00:28.810" overlap="false"> <vocal type="inhalation" />
+ <answer qId="q1" type="open">Well you see this is a <pause type="short" /> new virus <pause type="short" /> so virtually a very few people knew anything about at the beginning <pause type="long" />That's how people are still learning <vocal type="inhalation" /> to discover more about the virus <vocal type="inhalation" /> and how it affects people <vocal type="inhalation" /> and the channels of infection <vocal type="inhalation" /> and trying their best to stop it </answer>
+ </speech>
+
+ <speech spid = "$IR001" name="Margaret Brennan" title="" gender="female" nationality="US" continent="America" native="true" profession="Journalist" bio="" timeline="00:00:49.088" overlap="false"> <vocal type="inhalation" /> the US has offered repeatedly
+ <speech spid = "$IE001" name="Cui Tiankai" title="China ambassador to US" gender="male" nationality="China" continent="Asia" native="false" profession="Diplomat" bio="" timeline="00:00:51.170" overlap="true"> yeah </speech>
+ to <emph descr=""> send </emph> CDC experts <emph descr=""> American </emph> experts to help out <vocal type="inhalation" /> <question id="q2" type="open">Why does Beijing continued to ignore those offers?</question>
+ </speech>
+
+ <speech spid = "$IE001" name="Cui Tiankai" title="China ambassador to US" gender="male" nationality="China" continent="Asia" native="false" profession="Diplomat" bio="" timeline="00:00:59.638" overlap="false">
+ <vocal type="inhalation" /> <answer qId="q2" type="close">I don't think it's been ignored</answer> First of all we have
+ </speech>
+
+ <speech spid = "$IR001" name="Margaret Brennan" title="" gender="female" nationality="US" continent="America" native="true" profession="Journalist" bio="" timeline="00:01:02.686" overlap="false">
+ <question id="q3" type="close"> but you haven't said yes</question>
+ </speech>
+
+ <speech spid = "$IE001" name="Cui Tiankai" title="China ambassador to US" gender="male" nationality="China" continent="Asia" native="false" profession="Diplomat" bio="" timeline="00:01:04.112" overlap="false">
+ <answer qId="q3" type="open"> well <s type="repetition"> we we </s> welcome <pause type="long" />the American experts to participate in our efforts <vocal type="inhalation" /> and we are coordinating with the world health organization <vocal type="inhalation" /> because a lot of things are done under the auspices of the world health organization <vocal type="inhalation" /> We certainly welcome American experts <vocal type="inhalation" /> to <emph descr=""> join </emph> the expert's group that the WHO assembly <pause type="short" /> and I am sure that they will be going to China very soon </answer>
+ </speech>
+
+ <speech spid = "$IR001" name="Margaret Brennan" title="" gender="female" nationality="US" continent="America" native="true" profession="Journalist" bio="" timeline="00:01:29.510" overlap="false">
+ <question id="q4" type="close">you expect Americans to be there as part of the WHO but you don't <overlap> want the CDC there? </overlap> </question>
+ </speech>
+
+ <speech spid = "$IE001" name="Cui Tiankai" title="China ambassador to US" gender="male" nationality="China" continent="Asia" native="false" profession="Diplomat" bio="" timeline="00:01:33.749" overlap="false">
+ <answer qId="q4" type="open"> <overlap> <s type="repetition"> the the the </s> </overlap> <pause type="short" /> first of all American experts are on the <emph descr=""> list </emph> recommended by the WHO <vocal type="inhalation" /> we certainly respect <vocal type="inhalation" /> I think all of us respect the WHO <vocal type="inhalation" /> as the most professional <vocal type="inhalation" /> intergovernmental <pause type="short" /> body in the world <vocal type="inhalation" /> and for the US CDC <pause type="long" />they have <pause type="short" /> very frequent regular contact <pause type="short" /> with <s type="repetition"> the the the </s> the Chinese counterpart <vocal type="inhalation" /> the Chinese CDC <vocal type="inhalation" /> And <pause type="short" /> even beyond that <pause type="short" /> some American experts<pause type="short" /> have come to China already on their own <pause type="short" /> individual bases <vocal type="inhalation" /> so there is ongoing contact <vocal type="inhalation" /> not only between the two governments but also between the two CDCs <vocal type="inhalation" /> and between the <vocal type="eh" /><vocal type="eh" /> academic institutions <vocal type="inhalation" /> and even <pause type="short" /> some American companies are also offering help <pause type="short" /> technical help</answer>
+ </speech>
+
+ <speech spid = "$IR001" name="Margaret Brennan" title="" gender="female" nationality="US" continent="America" native="true" profession="Journalist" bio="" timeline="00:02:23.990" overlap="false">
+ <vocal type="inhalation" /> well <s type="repetition"> I I </s> ask the question because it also gets at <vocal type="eh" /> there is a lot of <pause type="short" /> unknown <pause type="short" /> and a lot of <emph descr=""> suspicion </emph> because of that and in fact this week <vocal type="inhalation" /> <vocal type="eh" /> senator Tom Cotton who sits on the senate intelligence and armed services committee <vocal type="inhalation" /> suggested that the virus may have come from China's biological warfare program <vocal type="inhalation" /> that’s an <emph descr=""> extraordinary </emph> charge <pause type="short" /> <question id="q5" type="open">How do you respond to that?</question>
+ </speech>
+
+ <speech spid = "$IE001" name="Cui Tiankai" title="China ambassador to US" gender="male" nationality="China" continent="Asia" native="false" profession="Diplomat" bio="" timeline="00:02:49.040" overlap="false">
+ <vocal type="inhalation" /> <answer qId="q5" type="open"> I think it’s true that <pause type="short" /> a lot is still unknown <pause type="short" /> and our scientists <vocal type="inhalation" /> Chinese scientists <vocal type="inhalation" /> American scientists <vocal type="inhalation" /> scientists of other country are doing their best <vocal type="inhalation" /> to learn more about the virus <vocal type="inhalation" /> but it’s very harmful it’s very dangerous <vocal type="inhalation" /> to stir up <pause type="short" /> suspicion rumors and spread them among the people <vocal type="inhalation" /> For one thing this will create panic <vocal type="inhalation" /> Another thing that it will <pause type="short" /> fan up <pause type="short" /> racial discrimination xenofobia all these things <vocal type="inhalation" /> that will really <emph descr=""> harm </emph>our joint efforts <vocal type="inhalation" /> to combat <pause type="short" /> the virus <vocal type="inhalation" /> Of course there are <pause type="short" /> all kinds of speculation and rumors <vocal type="inhalation" /> there are people who are saying that this virus are coming from <vocal type="inhalation" /> some military lab not over China maybe in the United States <vocal type="inhalation" /> <question id="q6" type="open">How can we <pause type="short" /> believe all these crazy things?</question> </answer>
+ </speech>
+
+ <speech spid = "$IR001" name="Margaret Brennan" title="" gender="female" nationality="US" continent="America" native="true" profession="Journalist" bio="" timeline="00:03:37.250" overlap="false">
+ <question id="q7" type="close"> Do you think it's crazy?</question> Where did the virus
+ <speech spid = "$IE001" name="Cui Tiankai" title="China ambassador to US" gender="male" nationality="China" continent="Asia" native="false" profession="Diplomat" bio="" timeline="00:03:38.900" overlap="true"><answer qId="q7" type="close"> Absolutely crazy </answer></speech>
+ <question id="q8" type="open">Where did the virus come from?</question>
+ </speech>
+
+ <speech spid = "$IE001" name="Cui Tiankai" title="China ambassador to US" gender="male" nationality="China" continent="Asia" native="false" profession="Diplomat" bio="" timeline="00:03:42.320" overlap="false">
+ <answer qId="q8" type="open"> we still don’t know yet it's probably <vocal type="inhalation" /> according to some initial outcome of the research <pause type="short" /> probably <pause type="short" /> coming from some animals <vocal type="inhalation" /> but we have <s type="repetition"> to <pause type="short" /> to </s> discover more about it</answer>
+ </speech>
+
+ <speech spid = "$IR001" name="Margaret Brennan" title="" gender="female" nationality="US" continent="America" native="true" profession="Journalist" bio="" timeline="00:03:54.650" overlap="false">
+ <vocal type="inhalation" /> <vocal type="ehm" /> There has been some outcry in social media particularly after the death <vocal type="eh" /> of doctor Li Wenliang <vocal type="inhalation" /> He had made public warnings for weeks <pause type="short" /> <emph descr=""> before </emph> the government acknowledged this was happening in fact authorities had forced him to <emph descr=""> disavow </emph> <vocal type="inhalation" /> what he had said previously which turned out to be true <vocal type="inhalation" /> The communist party of China is now <emph descr=""> investigating </emph> this <pause type="short" /> <question id="q9" type="open">why?</question>
+ </speech>
+
+ <speech spid = "$IE001" name="Cui Tiankai" title="China ambassador to US" gender="male" nationality="China" continent="Asia" native="false" profession="Diplomat" bio="" timeline="00:04:19.360" overlap="false">
+ <vocal type="inhalation" /> <answer qId="q9" type="open"> Well <pause type="short" /> we are all very saddened <pause type="long" />about the death of Doctor Li <vocal type="inhalation" /> he is a good doctor <vocal type="inhalation" /> he was a devoted doctor and he did his best <pause type="short" /> to protect people's health <pause type="short" /> we are so grateful to him <vocal type="inhalation" /> but you see <pause type="short" /> he was a doctor and a doctor could be alarmed by some individual cases <vocal type="inhalation" /> but as for the government <vocal type="inhalation" /> you have to do <emph descr=""> more </emph><pause type="short" /> you have to base your decisions your announcement <vocal type="inhalation" /> <pause type="short" /> on more solid <pause type="short" /> evidence and signs</answer>
+ </speech>
+
+ <speech spid = "$IR001" name="Margaret Brennan" title="" gender="female" nationality="US" continent="America" native="true" profession="Journalist" bio="" timeline="00:04:53.940" overlap="false">
+ <question id="q10" type="close">would you think silencing him in the beginning was a mistake?</question>
+ </speech>
+
+ <speech spid = "$IE001" name="Cui Tiankai" title="China ambassador to US" gender="male" nationality="China" continent="Asia" native="false" profession="Diplomat" bio="" timeline="00:04:58.111" overlap="false">
+ <answer qId="q10" type="open"><pause type="long" /> <s type="repetition"> I I </s> don’t know who try to silence him but <vocal type="inhalation" /> there was certainly a <pause type="short" /> disagreement or <pause type="short" /> people were not able to reach agreement <pause type="short" /> on what exactly the virus is <vocal type="inhalation" /> how it is <pause type="short" /> affecting people <vocal type="inhalation" /> so <vocal type="eh" /> there was a process of <pause type="long" />trying to discover more to learn more about the virus <vocal type="inhalation" /> maybe some people reacted <pause type="short" /> not quickly enough <vocal type="inhalation" /> maybe Doctor Li <pause type="short" /> he perceived some <pause type="short" /> incoming dangers earlier than others <vocal type="inhalation" /> but <s type="self-correction"> this is this could </s> happen anywhere <pause type="long" />but whenever we found there is some shortcoming <vocal type="inhalation" /> we'll do our best to correct it </answer>
+ </speech>
+
+ <speech spid = "$IR001" name="Margaret Brennan" title="" gender="female" nationality="US" continent="America" native="true" profession="Journalist" bio="" timeline="00:05:37.880" overlap="false">
+ <question id="q11" type="close"> Have Chinese authorities detained the citizen journalist Chen Qiushi?</question> he has disappeared and his videos revealed a lot of what was happening with this virus
+ </speech>
+
+ <speech spid = "$IE001" name="Cui Tiankai" title="China ambassador to US" gender="male" nationality="China" continent="Asia" native="false" profession="Diplomat" bio="" timeline="00:05:47.700" overlap="false">
+ <answer qId="q11" type="open"> I’m sorry I have <s type="self-correction"> not never </s> heard of this guy so <vocal type="inhalation" /> I don’t have any information to share with you </answer>
+ </speech>
+
+ <speech spid = "$IR001" name="Margaret Brennan" title="" gender="female" nationality="US" continent="America" native="true" profession="Journalist" bio="" timeline="00:05:53.490" overlap="false">
+ His videos are how the rest of world have seen some of the images of what’s happening <vocal type="inhalation" /> <vocal type="ehm" /> I wanna also ask you quickly <vocal type="inhalation" /> <vocal type="eh" /> secretary of state Mike Pompeo gave an extraordinary speech yesterday to <vocal type="ah" /> a number of governors from <emph descr=""> all </emph> <emph descr=""> around </emph> the United States <vocal type="inhalation" /> and he <pause type="short" /> partially criticized the Chinese communist party and he said <vocal type="inhalation" /> that your country is <quotation> targeting states cities schools academic institutions to try to figure out how to exploit them </quotation> <question id="q12" type="open">what exactly is the intention <pause type="short" /> of the Chinese government?</question> Because the secretary of state says <pause type="short" /> it’s not good
+ </speech>
+
+ <speech spid = "$IE001" name="Cui Tiankai" title="China ambassador to US" gender="male" nationality="China" continent="Asia" native="false" profession="Diplomat" bio="" timeline="00:06:29.730" overlap="false">
+ <answer qId="q12" type="open"> <vocal type="inhalation" /><pause type="short" /> I always believe the real foundation <pause type="short" /> of China-US relations <pause type="short" /> is the friendship and mutual understanding between our peoples <vocal type="inhalation" /> so this is the root <pause type="short" /> of state to state relations <vocal type="inhalation" /> and there is such enthusiasm among american states <vocal type="inhalation" /> cities and towns and <pause type="short" /> ordinary americans <pause type="short" /> to learn more about China <vocal type="inhalation" /> to develop friendship with Chinese people <vocal type="inhalation" />
+ <speech spid = "$IR001" name="Margaret Brennan" title="" gender="female" nationality="US" continent="America" native="true" profession="Journalist" bio="" timeline="00:06:55.660" overlap="true"> <vocal type="mhmh" /> </speech>
+ to facilitate cooperation between the two country <vocal type="inhalation" /> </answer>
+ <speech spid = "$IR001" name="Margaret Brennan" title="" gender="female" nationality="US" continent="America" native="true" profession="Journalist" bio="" timeline="00:06:59.520" overlap="true"> <unclear descr=""> well he he </unclear> </speech>
+ <s type="repetition"> I don't I don’t </s> think anybody has any reason to <emph descr=""> against </emph> the will of the people
+ </speech>
+
+ <speech spid = "$IR001" name="Margaret Brennan" title="" gender="female" nationality="US" continent="America" native="true" profession="Journalist" bio="" timeline="00:07:04.450" overlap="false">
+ <vocal type="inhalation" /> well He <pause type="short" /> specifically referenced <vocal type="eh" /> concentration camps in Xinjiang he talked about American institutions inadvertently investing and surveillance of Muslims minority <vocal type="inhalation" /><question id="q13" type="close"> Do you want to respond to that point?</question>
+ </speech>
+
+ <speech spid = "$IE001" name="Cui Tiankai" title="China ambassador to US" gender="male" nationality="China" continent="Asia" native="false" profession="Diplomat" bio="" timeline="00:07:17.140" overlap="false">
+ <answer qId="q13" type="close" descr="expansion"> <vocal type="inhalation" />that’s totally wrong <pause type="long" />that’s totally wrong because <vocal type="inhalation" /> the core issue in Xinjiang <pause type="short" /> is how to <pause type="short" /> combat<pause type="short" /> terrorism <vocal type="inhalation" /> You see some years ago <pause type="short" /> until most recently <vocal type="inhalation" /> people in Xinjiang were victims <pause type="short" /> to rising <s type="repetition"> terrorist terrorist</s> attacks <vocal type="inhalation" /> there were thousand of such attacks <vocal type="inhalation" /> hurting and even killing <pause type="short" /> hundreds of thousands of people <vocal type="inhalation" /> so we have to do something to stop this <pause type="short" /> <emph descr=""> threat </emph>
+ <speech spid = "$IR001" name="Margaret Brennan" title="" gender="female" nationality="US" continent="America" native="true" profession="Journalist" bio="" timeline="00:07:45.200" overlap="true"> <vocal type="mhmh" /> </speech>
+ to the very well being and the <pause type="short" /> lives of the people there <vocal type="inhalation" />
+ <speech spid = "$IR001" name="Margaret Brennan" title="" gender="female" nationality="US" continent="America" native="true" profession="Journalist" bio="" timeline="00:07:49.317" overlap="true"> okay </speech>
+ so <pause type="short" /> with our <pause type="short" /> tremendous efforts <vocal type="inhalation" /> now for the last three years <vocal type="inhalation" />
+ <speech spid = "$IR001" name="Margaret Brennan" title="" gender="female" nationality="US" continent="America" native="true" profession="Journalist" bio="" timeline="00:07:55.340" overlap="true"> yeah </speech>
+ there has been <emph descr=""> no </emph> such terrorists attack <pause type="short" /> so people have a <pause type="short" /> much better safety there security there <vocal type="inhalation" /> and people are happy there</answer>
+ </speech>
+
+ <speech spid = "$IR001" name="Margaret Brennan" title="" gender="female" nationality="US" continent="America" native="true" profession="Journalist" bio="" timeline="00:08:06.050" overlap="false">
+ <vocal type="inhalation" /> alright <pause type="short" /> Ambassador <pause type="short" /> thank you for telling your side of the story
+ </speech>
+
+</text>
+</doc>
